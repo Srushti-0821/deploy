@@ -1,0 +1,164 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Future of Web Development",
+      "description": "Explore emerging trends in web development like AI, serverless, and more.",
+      "date": "2025-06-15",
+      "image": "https://picsum.photos/id/1015/600/300",
+      "category": "Tech"
+    },
+    {
+      "id": 2,
+      "title": "Staying Productive While Studying",
+      "description": "Top 5 time management tips for students to stay on track.",
+      "date": "2025-06-10",
+      "image": "https://picsum.photos/id/1027/600/300",
+      "category": "Life"
+    },
+    {
+      "id": 3,
+      "title": "Why JavaScript is Still King",
+      "description": "JavaScript continues to dominate the web — here's why.",
+      "date": "2025-06-05",
+      "image": "https://picsum.photos/id/1060/600/300",
+      "category": "Programming"
+    },
+    {
+      "id": 4,
+      "title": "How I Built a Blog in One Weekend",
+      "description": "A behind-the-scenes look at how I built this blog app with React and JSON Server.",
+      "date": "2025-05-30",
+      "image": "https://picsum.photos/id/1035/600/300",
+      "category": "Tech"
+    },
+    {
+      "id": 5,
+      "title": "Mindfulness for Busy Coders",
+      "description": "Simple breathing and meditation techniques to improve coding focus.",
+      "date": "2025-06-18",
+      "image": "https://picsum.photos/id/1020/600/300",
+      "category": "Health"
+    },
+    {
+      "id": 6,
+      "title": "CSS Grid vs Flexbox",
+      "description": "Which layout system should you use? Let's break it down.",
+      "date": "2025-06-12",
+      "image": "https://picsum.photos/id/1040/600/300",
+      "category": "Design"
+    },
+    {
+      "id": 7,
+      "title": "My Favorite React Hooks",
+      "description": "A collection of custom and built-in hooks I use in every project.",
+      "date": "2025-06-14",
+      "image": "https://picsum.photos/id/1052/600/300",
+      "category": "React"
+    },
+    {
+      "id": 8,
+      "title": "Top Free Resources for Developers",
+      "description": "E-books, tools, and courses that every beginner should know.",
+      "date": "2025-06-08",
+      "image": "https://picsum.photos/id/1074/600/300",
+      "category": "Learning"
+    },
+    {
+      "title": "Mastering Git in a Day",
+      "description": "Beginner to advanced Git commands explained with use cases.",
+      "date": "2025-06-06",
+      "image": "https://picsum.photos/id/1084/600/300",
+      "category": "Tools",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "title": "How to Contribute to Open Source",
+      "description": "A step-by-step guide to finding and contributing to OSS projects.",
+      "date": "2025-06-03",
+      "image": "https://picsum.photos/id/109/600/300",
+      "category": "Community"
+    },
+    {
+      "id": 11,
+      "title": "Why Learning Git is Essential",
+      "description": "Version control is a must-have skill for developers. Here's how Git helps you collaborate and track changes.",
+      "date": "2025-06-20",
+      "image": "https://picsum.photos/id/110/600/300",
+      "category": "Tools"
+    },
+    {
+      "id": 12,
+      "title": "Beginner’s Guide to APIs",
+      "description": "Learn what APIs are, how they work, and how to use them in your projects.",
+      "date": "2025-06-21",
+      "image": "https://picsum.photos/id/111/600/300",
+      "category": "Programming"
+    },
+    {
+      "id": 13,
+      "title": "Dark Mode in CSS",
+      "description": "Add dark mode to your website using CSS custom properties and media queries.",
+      "date": "2025-06-22",
+      "image": "https://picsum.photos/id/112/600/300",
+      "category": "Design"
+    },
+    {
+      "id": 14,
+      "title": "Top 10 VS Code Extensions for 2025",
+      "description": "Boost your productivity with these must-have VS Code extensions.",
+      "date": "2025-06-19",
+      "image": "https://picsum.photos/id/113/600/300",
+      "category": "Tools"
+    },
+    {
+      "id": 15,
+      "title": "Responsive Web Design Basics",
+      "description": "Learn how to make your websites mobile-friendly with responsive design techniques.",
+      "date": "2025-06-18",
+      "image": "https://picsum.photos/id/114/600/300",
+      "category": "Web"
+    },
+    {
+      "id": 16,
+      "title": "What is JSON Server?",
+      "description": "Quick intro to using JSON Server to simulate REST APIs for frontend projects.",
+      "date": "2025-06-17",
+      "image": "https://picsum.photos/id/115/600/300",
+      "category": "Tools"
+    },
+    {
+      "id": 17,
+      "title": "React vs Vue: Which to Learn?",
+      "description": "Both are powerful frameworks — here's how to choose which one suits your goals.",
+      "date": "2025-06-16",
+      "image": "https://picsum.photos/id/116/600/300",
+      "category": "React"
+    },
+    {
+      "id": 18,
+      "title": "Create a Portfolio with Bootstrap",
+      "description": "Step-by-step guide to building a responsive portfolio site using Bootstrap 5.",
+      "date": "2025-06-15",
+      "image": "https://picsum.photos/id/117/600/300",
+      "category": "Design"
+    },
+    {
+      "id": 19,
+      "title": "JavaScript ES6 Features You Must Know",
+      "description": "Arrow functions, destructuring, spread/rest... here’s what makes ES6 awesome.",
+      "date": "2025-06-14",
+      "image": "https://picsum.photos/id/118/600/300",
+      "category": "JavaScript"
+    },
+    {
+      "id": 20,
+      "title": "Writing Clean Code",
+      "description": "Why clean, readable code matters more than clever hacks.",
+      "date": "2025-06-13",
+      "image": "https://picsum.photos/id/119/600/300",
+      "category": "Programming"
+    }
+  ]
+}
